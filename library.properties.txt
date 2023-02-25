@@ -1,0 +1,9 @@
+name=NextPM sensor Library
+version=0.0.1
+author=PJ Guéno
+maintainer=PJ Guéno <pierre_jean@sensor.community>
+sentence=Tera NextPM dust sensor library
+paragraph=Tera NextPM dust sensor library
+category=Sensors
+url=https://github.com/pjgueno/NextPMlib
+architectures=esp8266,avr,esp32
